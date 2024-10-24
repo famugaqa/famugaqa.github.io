@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://famugaqa.github.io/sitemap/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/IxM/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/hCu/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/IZX/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/tMC/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/ZBu/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/bkQ/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/ULO/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/MYg/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/KIy/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/sgX/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/jGt/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/whC/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/aSL/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/fuZ/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/Jro/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/uTI/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/RFC/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/eAL/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/Qnf/sitemap_index.famugaqa
+Sitemap: https://famugaqa.github.io/Ton/sitemap_index.famugaqa
